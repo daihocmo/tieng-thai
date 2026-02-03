@@ -7,8 +7,14 @@ repo_url: https://github.com/daihocmo/tieng-thai
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 'guide.md'
-  - 'Tài nguyên': 'resources.md'
+  - 'Hướng dẫn': 
+    - 'Tự học Tiếng Thái': 'guide.md'
+    - 'Immersion': 'immersion.md'
+  - 'Yomitan':
+    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+  - 'Tài nguyên': 
+    - 'Tài nguyên học': 'resources.md'
+    - 'Nội dung Tiếng Thái': 'recommendations.md'
  
 theme:
   palette:

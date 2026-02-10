@@ -9,13 +9,16 @@ nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn': 
     - 'Tự học Tiếng Thái': 'guide.md'
-    - 'Immersion': 'immersion.md'
+    - 'Hướng dẫn đơn ngữ': 'monolingual.md'
   - 'Yomitan':
-    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+    - 'Hướng dẫn cài đặt': 'yomitan.md'
+    - 'Mining với Anki & Yomitan': 'mining.md'
   - 'Tài nguyên': 
-    - 'Tài nguyên học': 'resources.md'
+    - 'Học': 'resources.md'
+    - 'Comprehensible Input': 'comprehensible-input.md'
     - 'Nội dung Tiếng Thái': 'recommendations.md'
- 
+    - 'Tham gia cộng đồng học trên Discord': 'join.md'
+
 theme:
   palette:
     # Palette toggle for light mode

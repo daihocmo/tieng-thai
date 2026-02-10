@@ -58,7 +58,7 @@ Chưa tìm được :< khó quá.
 6. Đợi các từ điển được thêm vào. Sẽ mất một lúc (Mình làm trên Firefox thấy lâu hơn so với bên Chromium)
 7. Sau khi hoàn tất, bạn có thể kiểm tra Yomitan bằng cách giữ phím ++shift++ và di chuột qua văn bản Tiếng Thái. Thử di chuột vào cái này xem: ภาษาไทย. Nó sẽ hiện một pop-up box hiển thị các định nghĩa được chia theo từ điển.
    ![Yomitan Demo](img/yomidemo1.png)
-![alt text](image.png)
+
 Bấm ra chỗ khác trên màn hình hoặc phím Esc để ẩn hộp thoại đó đi
 
 Bạn có thể bấm vào nút ![audio](img/yomichan-audio.png) để nghe phát âm từ.

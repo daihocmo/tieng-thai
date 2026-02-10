@@ -1,39 +1,29 @@
-# Nội Dung Tiếng Thái
+# Nội dung Tiếng Thái
 
-## Comprehensible Input (CI)
+## Comprehensible Input (Đầu vào dễ hiểu cho người mới)
 
-CI content helps learners understand the basic idea of what they watch or listen to. Below are resources tailored for beginners to start immersion.
+- [Comprehensible Thai](https://www.youtube.com/c/ComprehensibleThai): Kênh video dành cho người mới bắt đầu, có playlist cho trình độ siêu cơ bản và nâng cao nhẹ
+- [ALG Thai Level 1.1](https://www.youtube.com/playlist?list=PL5CA2A5587541DCF1): Playlist học qua immersion với đầu vào dễ hiểu cho người mới hoàn toàn
+- [ALG Thai Level 1.2](https://youtube.com/playlist?list=PLEv5F-ElVyaZFZz5OQwFgketgzjcTyqW8): Phần tiếp theo của ALG Thai cho người mới bắt đầu
 
-### Video
-- [Comprehensible Thai](https://www.youtube.com/c/ComprehensibleThai): A collection of videos for beginners, including playlists for absolute beginners ([Playlist 1](https://www.youtube.com/playlist?list=PLgdZTyVWfUhlxVi68zFEL8Lu5Q0Bocgbp)) and slightly more advanced learners ([Playlist 2](https://www.youtube.com/playlist?list=PLgdZTyVWfUhmfpoSHElIO5xfnO1ngpw1L)). Neutral. Super Beginner. Free access.
-- [ALG Thai Level 1.1](https://www.youtube.com/playlist?list=PL5CA2A5587541DCF1): YouTube video playlist for immersion with comprehensible input. Neutral. Super Beginner. Free access.
-- [ALG Thai Level 1.2](https://youtube.com/playlist?list=PLEv5F-ElVyaZFZz5OQwFgketgzjcTyqW8): Continuation of ALG Thai for beginners. Neutral. Super Beginner. Free access.
+## Kênh YouTube
 
-## YouTube Channels
+- [Comprehensible Thai](https://www.youtube.com/c/ComprehensibleThai): Kênh Comprehensible Input cho người mới
+- [ALG Thai Level 1.1](https://www.youtube.com/playlist?list=PL5CA2A5587541DCF1): Playlist CI cho người mới hoàn toàn
+- [ALG Thai Level 1.2](https://youtube.com/playlist?list=PLEv5F-ElVyaZFZz5OQwFgketgzjcTyqW8): Playlist CI nâng nhẹ
+- [เทพลีลา](https://www.youtube.com/c/%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%B2/videos): Kênh hài hước bằng tiếng Thái
+- [เถื่อน Channel](https://www.youtube.com/c/TuenChannel/featured): Kênh tin tức và phim tài liệu
 
-| Title | Dialect | Link | Genre | Difficulty | Subtitles |
-|-------|---------|------|-------|------------|----------|
-| Comprehensible Thai | Neutral | https://www.youtube.com/c/ComprehensibleThai | Comprehensible Input | Super Beginner | No |
-| ALG Thai Level 1.1 | Neutral | https://www.youtube.com/playlist?list=PL5CA2A5587541DCF1 | Comprehensible Input | Super Beginner | No |
-| ALG Thai Level 1.2 | Neutral | https://youtube.com/playlist?list=PLEv5F-ElVyaZFZz5OQwFgketgzjcTyqW8 | Comprehensible Input | Super Beginner | No |
-| เทพลีลา | Neutral | https://www.youtube.com/c/%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%B2/videos | Comedy | Intermediate | No |
-| เถื่อน Channel | Neutral | https://www.youtube.com/c/TuenChannel/featured | News, Documentary | Intermediate | No |
+## Podcast
 
-## Podcasts
+- [WiTcast](https://www.witcastthailand.com/): Podcast về khoa học và giải trí
+- [Super 10](https://www.youtube.com/c/SuperjeewOfficial/playlists?view=50&shelf_id=8): Talk show dành cho trẻ em và gia đình
+- [THE STANDARD WEALTH](https://www.youtube.com/channel/UCCbmc3WgGqICujNEjMWrGdQ): Nội dung về kinh doanh và kinh tế
 
-| Title | Link | Genre | Number of Hosts | Difficulty | Dialect |
-|-------|------|-------|-----------------|------------|---------|
-| WiTcast | https://www.witcastthailand.com/ | Science, Comedy | 1 | Intermediate | Neutral |
-| Super 10 | https://www.youtube.com/c/SuperjeewOfficial/playlists?view=50&shelf_id=8 | Talk Show, Kids | 3 | Beginner | Neutral |
-| THE STANDARD WEALTH | https://www.youtube.com/channel/UCCbmc3WgGqICujNEjMWrGdQ | Business | 1 | Intermediate | Neutral |
+## Đọc
 
-## Reading
+- [Thai-language.com Lessons](http://www.thai-language.com/lessons): Các đoạn đọc ngắn có bản dịch tiếng Anh để luyện đọc
 
-### Graded Readers
-- [Thai-language.com Lessons](http://www.thai-language.com/lessons): Short passages with English translations for reading practice. Neutral. Beginner to Intermediate. Free access.
+## Xem phim
 
-## Streaming Services
-
-| Title | Link | Notes |
-|-------|------|-------|
-| Netflix | https://unogs.com/ | Full catalogue of Thai content available on Netflix. Neutral. Beginner to Advanced. Subscription required.
+- [Netflix (uNoGS)](https://unogs.com/): Danh mục nội dung tiếng Thái có trên Netflix
